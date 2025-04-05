@@ -2,7 +2,7 @@
 
 A classic Hangman game built in Python (or whatever language you used). The game selects a random word, and the player must guess it one letter at a time before they run out of chances!
 
-🎯 Features
+**🎯 Features**
 Random word selection from a predefined list
 User-friendly input prompts
 ASCII visuals to show hangman progress
